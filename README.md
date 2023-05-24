@@ -23,11 +23,11 @@ Certifique-se de ter um compilador C++ instalado em seu sistema. Recomenda-se o 
 2. Abra o terminal e navegue até o diretório onde o arquivo `jogo_da_adivinhacao.cpp` está localizado.
 3. Execute o seguinte comando para compilar o código:
 
-`g++ jogo_da_adivinhacao.cpp -o jogo_da_adivinhacao`
+   `g++ jogo_da_adivinhacao.cpp -o jogo_da_adivinhacao`
 
 4. Após a conclusão da compilação, execute o programa:
 
-`./jogo_da_adivinhacao`
+   `./jogo_da_adivinhacao`
 
 ## Requisitos do Sistema
 
